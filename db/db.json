@@ -1,0 +1,266 @@
+{
+  "electronics": [
+    {
+      "id": 1,
+      "title": "Apple-13.3-MacBook-Air-M1-Chip-silver",
+      "price": 245000,
+      "category": "Laptops",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/07/Apple-13.3-MacBook-Air-M1-Chip-silver.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+
+    },
+    {
+      "id": 2,
+      "title": "OnePlus-Buds-b",
+      "price": 30000,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/08/OnePlus-Buds-b.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 3,
+      "title": "JBL-PartyBox-Encore-Essential",
+      "price": 60000,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/07/JBL-PartyBox-Encore-Essential.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 4,
+      "title": "Apple-Watch-Series-7",
+      "price": 53000,
+      "category": "Smart Watches",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/05/Apple-Watch-Series-7.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 5,
+      "title": "Google-Pixel-6-Pro-a",
+      "price": 130000,
+      "category": "Smart Phones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/11/Google-Pixel-6-Pro-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 6,
+      "title": "iPhone-13-Pro-Max-Alpine-Green-a",
+      "price": 157000,
+      "category": "Smart Phones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/04/iPhone-13-Pro-Max-Alpine-Green-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 7,
+      "title": "Oppo-Find-X5",
+      "price": 90000,
+      "category": "Smart Phones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/06/Oppo-Find-X5.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 8,
+      "title": "iPad-Pro-12.9-2021",
+      "price": 150000,
+      "category": "Tablets",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/10/iPad-Pro-12.9-2021-x.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 9,
+      "title": "Sony-WH-1000XM4-Headphones",
+      "price": 32500,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/05/Sony-WH-1000XM4-Headphones-c.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 10,
+      "title": "Airpods-Max",
+      "price": 59500,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/01/Airpods-Max-e.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 11,
+      "title": "Apple-24-iMac-with-M1-Chip",
+      "price": 220000,
+      "category": "iMac",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/07/Apple-24-iMac-with-M1-Chip.png",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 12,
+      "title": "MacBook-Pro-16-inch-2021",
+      "price": 370000,
+      "category": "Laptops",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/03/MacBook-Pro-16-inch-2021-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 13,
+      "title": "MacBook-Pro",
+      "price": 340000,
+      "category": "Laptops",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/03/14%E2%80%91inch-MacBook-Pro-d.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 14,
+      "title": "Harman-Kardon-FLY-ANC",
+      "price": 19500,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/08/Harman-Kardon-FLY-ANC.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 15,
+      "title": "JBL-TUNE-500BT",
+      "price": 6300,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/03/JBL-TUNE-500BT-b.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 16,
+      "title": "Awei-Y370-IPX6-Speaker",
+      "price": 5500,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/05/Awei-Y370-IPX6-Speaker.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 17,
+      "title": "JBL-Charge-Essential",
+      "price": 17500,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/03/JBL-Charge-Essential.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 18,
+      "title": "Harman-Kardon-Onyx-Studio-6",
+      "price": 30500,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/08/Harman-Kardon-Onyx-Studio-6-b.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 19,
+      "title": "JBL-Sound-bar",
+      "price": 113900,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/03/JBL-Sound-bar-9.1.png",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 20,
+      "title": "Amazfit-GTR-3-ProAirpods-Max",
+      "price": 28300,
+      "category": "Smart Watches",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/04/Amazfit-GTR-3-Pro.webp",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 21,
+      "title": "Amazfit-Neo",
+      "price": 5500,
+      "category": "Smart Watches",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/03/Amazfit-Neo.webp",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 22,
+      "title": "Redmi-Watch-2-Lite",
+      "price": 8999,
+      "category": "Smart Watches",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Redmi-Watch-2-Lite.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 23,
+      "title": "Huawei-Watch-GT-3",
+      "price": 28500,
+      "category": "Smart Watches",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Huawei-Watch-GT-3.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 24,
+      "title": "Samsung-Galaxy-F22",
+      "price": 21000,
+      "category": "Smart Phones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/06/Samsung-Galaxy-F22-aa.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 25,
+      "title": "Nokia-C21-Plus",
+      "price": 14800,
+      "category": "Smart Phones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Nokia-C21-Plus-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 26,
+      "title": "Samsung-Galaxy-Tab-S8-Plus",
+      "price": 128500,
+      "category": "Tablets",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/01/Samsung-Galaxy-Tab-S8-Plus.png",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 27,
+      "title": "Samsung-Galaxy-Tab-S8-Ultra",
+      "price": 160500,
+      "category": "Tablets",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/03/Samsung-Galaxy-Tab-S8-Ultra.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 28,
+      "title": "iPad-10.2-2021-9th-Gen-Wi-Fi-Only",
+      "price": 59500,
+      "category": "Tablets",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/05/iPad-10.2-2021-9th-Gen-Wi-Fi-Only-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 29,
+      "title": "24-inch-Blue-iMac",
+      "price": 250000,
+      "category": "iMac",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/07/24-inch-Blue-iMac-a.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    }
+  
+  ]
+}
