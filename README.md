@@ -1,4 +1,4 @@
-# JSON Server Template
+# Electronics JSON Server 
 
 ## Setup
 
@@ -15,20 +15,34 @@ with a key pointing to an array of data, like this:
 
 ```json
 {
-  "toys": [
+  "electronics": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Apple-13.3-MacBook-Air-M1-Chip-silver",
+      "price": 245000,
+      "category": "Laptops",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/07/Apple-13.3-MacBook-Air-M1-Chip-silver.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    }
-  ]
+      "title": "OnePlus-Buds-b",
+      "price": 30000,
+      "category": "Headphones",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/08/OnePlus-Buds-b.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    },
+    {
+      "id": 3,
+      "title": "JBL-PartyBox-Encore-Essential",
+      "price": 60000,
+      "category": "Speakers",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/07/JBL-PartyBox-Encore-Essential.jpg",
+      "description": "This is the best product in the market. And there's no better place to buy it than here."
+      
+    }]
 }
 ```
 
